@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="Black Minimalist Motivation Quote LinkedIn Banner.png" alt="Motivational Banner" width="800">
+</p>
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Ajay kumar</h1>
 <h3 align="center">I am a Pre - Final year undergraduate student in Electronics Engineering at HBTU Kanpur.</h3>
 
